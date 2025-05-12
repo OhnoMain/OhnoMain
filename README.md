@@ -36,7 +36,7 @@
     <h2 class="title">Contact Me</h2>
     <p>Transmission channels:</p>
     <ul>
-        <li><a href="https://twitter.com/OhNoMain" target="_blank">Discord</a></li>
-        <li><a href="https://www.fiverr.com" target="_blank">Fiverr</a></li>
+        <li><a href="https://discord.gg/FgM4zAw4qP" target="_blank">Discord</a></li>
+        <li><a href="https://buymeacoffee.com/ohnomain?new=1" target="_blank">Buy me a coffee</a></li>
     </ul>
 </div>
