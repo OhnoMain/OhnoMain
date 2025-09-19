@@ -6,7 +6,7 @@
 <div class="section">
     <h2 class="title">Who Am I?</h2>
     <div class="terminal">
-        <p>root@Ohno:~$ echo 'Python Developer. Linux Fanatic. Exploit Creator.'</p>
+        <p>root@Ohno:~$ echo 'Python Dev, Linux Guy, Exploit Creator.'</p>
     </div>
 </div>
 
