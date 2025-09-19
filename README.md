@@ -25,9 +25,10 @@
     <h2 class="title">Current Projects</h2>
     <div class="terminal">
         <p>root@OhNo:~$ cat projects.txt</p>
-        <p>- Python Exploits for Linux Systems</p>
+        <p>- Python Exploits for Windows (the enemy)</p>
         <p>- Dark Web Automation Scripts</p>
-        <p>- Security Research & Exploit Development</p>
+        <p>- Exploit Dev</p>
+        <p>- Sparx maths hack in the making</p>
     </div>
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd7LQPRmWo6IKPan2YdEjMGZ6dSL36sKi63w&s" class="gif" alt="Code scrolling"/>
 </div>
