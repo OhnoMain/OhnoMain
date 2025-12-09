@@ -1,5 +1,5 @@
 <div class="section">
-    <h1 class="title glitch" data-text="Welcome to the Abyss">Welcome to my Github</h1>
+    <h1 class="title glitch" data-text="Welcome to the Abyss">Welcome...</h1>
     <p class="glitch" data-text="Python | Linux | Exploits">Python | Linux | Exploits</p>
 </div>
 
@@ -30,6 +30,7 @@
         <p>- Exploit Dev</p>
         <p>- Sparx maths hack in the making</p>
     </div>
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd7LQPRmWo6IKPan2YdEjMGZ6dSL36sKi63w&s" class="gif" alt="Code scrolling"/>
 </div>
 
