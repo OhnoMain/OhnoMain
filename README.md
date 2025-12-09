@@ -30,7 +30,6 @@
         <p>- Exploit Dev</p>
         <p>- Sparx maths hack in the making</p>
     </div>
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd7LQPRmWo6IKPan2YdEjMGZ6dSL36sKi63w&s" class="gif" alt="Code scrolling"/>
 </div>
 
