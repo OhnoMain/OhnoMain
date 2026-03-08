@@ -1,13 +1,6 @@
 <div class="section">
     <h1 class="title glitch" data-text="Welcome to the Abyss">Welcome...</h1>
-    <p class="glitch" data-text="Python | Linux | Exploits">Python | Linux | Exploits</p>
-</div>
-
-<div class="section">
-    <h2 class="title">Who Am I?</h2>
-    <div class="terminal">
-        <p>root@Ohno:~$ echo 'Python Dev, Linux Guy, Exploit Creator.'</p>
-    </div>
+    <p class="glitch" data-text="Python | Linux | Exploits">Python | Linux | Exploits | C#</p>
 </div>
 
 <div class="section stats">
