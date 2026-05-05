@@ -44,8 +44,7 @@ I am focused on **Python**, **Linux environments**, **C#** and **experimentation
 
 <img src="https://github-readme-stats.vercel.app/api?username=OhnoMain&show_icons=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OhnoMain&layout=compact&langs_count=8&theme=tokyonight"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=OhnoMain&show_icons=true&cache_seconds=30"/>
 </div>
 
 ---
