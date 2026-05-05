@@ -42,7 +42,7 @@ I am focused on **Python**, **Linux environments**, **C#** and **experimentation
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=OhnoMain&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=OhnoMain&show_icons=true"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OhnoMain&layout=compact&langs_count=8&theme=tokyonight"/>
 
