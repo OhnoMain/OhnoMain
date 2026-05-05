@@ -35,19 +35,19 @@ I build tools, automate when possible, and build random stuff some people could 
 I am focused on **Python**, **Linux environments**, **C#** and **experimentation**.
 
 </div>
+ 
 
----
-
-### 📊 Stats
+## facts.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=OhnoMain&show_icons=true"/>
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
-<img src="https://github-readme-stats.vercel.app/api?username=OhnoMain&show_icons=true&cache_seconds=30"/>
+<br>
+
+<img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="400"/>
+
 </div>
-
----
 
 ### 🛠 Current Projects
 
