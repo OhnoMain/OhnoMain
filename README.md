@@ -19,7 +19,7 @@
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=00ff00)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=00ff00)
-![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=00ff00)
+[![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=00ff00)](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=gnubash&logoColor=00ff00)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=00ff00)
 
