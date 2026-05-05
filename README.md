@@ -6,7 +6,7 @@
 <h1 class="glitch" data-text="Welcome to the Abyss">Welcome to the Abyss</h1>
 
 <p>
-    Python | Linux | Security | C#
+    Python | Linux | Probably secure
 </p>
 
 </div>
@@ -31,8 +31,8 @@
 
 <div align="center">
 
-I build tools, automate systems, and explore security concepts.  
-Focused on **Python**, **Linux environments**, and **low-level experimentation**.
+I build tools, automate systems, and test different security concepts.  
+I am focused on **Python**, **Linux environments**, **C#** and **experimentation**.
 
 </div>
 
@@ -55,7 +55,10 @@ Focused on **Python**, **Linux environments**, and **low-level experimentation**
 ```bash
 root@Ohno:~$ cat projects.txt
 
-- Windows security research tools
+- Windows security
 - Python automation scripts
-- Exploit development (learning)
-- Experimental builds
+- Exploit development (for educational purposes🤨)
+- Experiments
+```
+<div align="center"> <p><strong>Join us.</strong></p> <a href="https://discord.gg/FKXR3TkQnt" target="_blank"> <img src="https://img.shields.io/badge/Join%20Discord-000?style=for-the-badge&logo=discord&logoColor=00ff00" /> </a> </div>
+        
