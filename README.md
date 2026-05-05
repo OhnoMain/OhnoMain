@@ -31,7 +31,7 @@
 
 <div align="center">
 
-I build tools, automate systems, and test different security concepts.  
+I build tools, automate when possible, and build random stuff some people could eventually find a use for  
 I am focused on **Python**, **Linux environments**, **C#** and **experimentation**.
 
 </div>
