@@ -25,10 +25,8 @@
 
 <div class="section">
     <h2 class="title">Contact Me</h2>
-    <p>Dm me:</p>
+    <p>Join the server</p>
     <ul>
-        <li><a href="discord.com/users/1486806826946134239" target="_blank">Discord</a></li>
-        <li><a href="https://discord.gg/KpMtdtjy" target="_blank">Discord Server</a></li>
-        <li><a href="https://buymeacoffee.com/ohnomain?new=1" target="_blank">Buy me a coffee</a></li>
+        <li><a href="https://discord.gg/FKXR3TkQnt" target="_blank">Discord Server</a></li>
     </ul>
 </div>
