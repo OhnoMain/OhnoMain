@@ -1,32 +1,61 @@
-<div class="section">
-    <h1 class="title glitch" data-text="Welcome to the Abyss">Welcome...</h1>
-    <p class="glitch" data-text="Python | Linux | Exploits">Python | Linux | Exploits | C#</p>
+<div align="center">
+
+<!-- Animated Typing ASCII -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=16&duration=2000&pause=800&color=00FFAA&center=true&vCenter=true&multiline=true&width=600&height=120&lines=___++_++++++++++++++++;+/+_+%5C|+%7C__++_+__+++___++;%7C+%7C+%7C+%7C+'_%5C%7C+'_%5C+%2F+_+%5C+;|+%7C_%7C+%7C+%7C+%7C+%7C+%7C+%7C+(_)+%7C;+%5C___%2F%7C_%7C+%7C_%7C_%7C+%7C_%5C___%2F" />
+
+<h1 class="glitch" data-text="Welcome to the Abyss">Welcome to the Abyss</h1>
+
+<p>
+    Python | Linux | Security | C#
+</p>
+
 </div>
 
-<div class="section stats">
-    <div>
-        <h2 class="title">GitHub Stats</h2>
-        <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra"/>
-    </div>
-    <div>
-        <h2 class="title">Top Languages</h2>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OhnoMain&layout=compact&langs_count=8&title_color=00ff00&text_color=00ffff&bg_color=0,000000,130F40" alt="Top Languages"/>
-    </div>
+---
+
+### 🔖 Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=00ff00)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=00ff00)
+![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=00ff00)
+![Bash](https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=gnubash&logoColor=00ff00)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=00ff00)
+
 </div>
 
-<div class="section">
-    <h2 class="title">Current Projects</h2>
-    <div class="terminal">
-        <p>root@Ohno:~$ cat projects.txt</p>
-        <p>- Python Exploits for Windows (the enemy)</p>
-        <p>- Dark Web Automation</p>
-        <p>- Exploit Dev</p>
-        <p>- Sparx maths hack in the making</p>
+---
 
-<div class="section">
-    <h2 class="title">Contact Me</h2>
-    <p>Join the server</p>
-    <ul>
-        <li><a href="https://discord.gg/FKXR3TkQnt" target="_blank">Discord Server</a></li>
-    </ul>
+### ⚡ About Me
+
+<div align="center">
+
+I build tools, automate systems, and explore security concepts.  
+Focused on **Python**, **Linux environments**, and **low-level experimentation**.
+
 </div>
+
+---
+
+### 📊 Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=OhnoMain&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OhnoMain&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+---
+
+### 🛠 Current Projects
+
+```bash
+root@Ohno:~$ cat projects.txt
+
+- Windows security research tools
+- Python automation scripts
+- Exploit development (learning)
+- Experimental builds
