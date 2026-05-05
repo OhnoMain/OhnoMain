@@ -6,7 +6,7 @@
 <div class="section stats">
     <div>
         <h2 class="title">GitHub Stats</h2>
-        <img src="https://github-readme-stats.vercel.app/api?username=OhnoMain&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=00ff00&icon_color=ff00ff&text_color=00ffff&bg_color=0,000000,130F40" alt="OhNo's Github Stats"/>
+        [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
     </div>
     <div>
         <h2 class="title">Top Languages</h2>
