@@ -35,10 +35,8 @@ I build tools, automate when possible, and build random stuff some people could 
 I am focused on **Python**, **Linux environments**, **C#** and **experimentation**.
 
 </div>
+
  
-
-## facts.
-
 <div align="center">
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
