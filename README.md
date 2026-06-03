@@ -57,5 +57,5 @@ root@Ohno:~$ cat projects.txt
 - Exploit development (for educational purposes🤨)
 - Experiments
 ```
-<div align="center"> <p><strong>Join us.</strong></p> <a href="https://discord.gg/FKXR3TkQnt" target="_blank"> <img src="https://img.shields.io/badge/Join%20Discord-000?style=for-the-badge&logo=discord&logoColor=00ff00" /> </a> </div>
+<div align="center"> <p><strong>Join us.</strong></p> <a href="https://discord.gg/RqQxXbFT9a" target="_blank"> <img src="https://img.shields.io/badge/Join%20Discord-000?style=for-the-badge&logo=discord&logoColor=00ff00" /> </a> </div>
         
